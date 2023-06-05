@@ -1,0 +1,23 @@
+
+<!-- Typed Color -->
+<p style="color: red;">This text is in red.</p>
+
+<!-- HSL Value -->
+<p style="color: hsl(0, 0%, 100%);">This text is in BLUE.</p>
+
+<!-- Hexadecimal Code -->
+<p style="color: #FF0000;">This text is in RED.</p>
+
+<!-- RGB Value -->
+<p style="color: rgb(0, 255, 0);">This text is in GREEN.</p>
+
+
+//-----------------------------------------------------------------------------------------------------
+<img src="image.jpg" alt="Description of the image">
+
+<img src="map.jpg" alt="Map" usemap="#map">
+<map name="map">
+  <area shape="circle" coords="100,100,50" href="location1.html" alt="Location 1">
+  <area shape="rect" coords="200,200,300,300" href="location2.html" alt="Location 2">
+</map>
+//------------------------------------------------------------------------------------------------------
